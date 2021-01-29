@@ -1,1 +1,2 @@
-Моят тест 
+My status text
+Промяна с Tortoise
